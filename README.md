@@ -1,0 +1,1 @@
+The Power BI dashboard is designed to deliver valuable insights and actionable information, helping drive decision-making that supports the supermarket's growth, efficiency, and customer satisfaction goals.
